@@ -1,2 +1,2 @@
-# satellite-constellation-optimization
+# 🚀 Satellite Constellation Optimization
 A project to optimize the number and orbital configuration of satellites to maximize Earth coverage while minimizing cost!
